@@ -1,4 +1,4 @@
-import GlobalStyle from "./styles/global";
+import GlobalStyle from "../src/style/global.js";
 import styled from "styled-components";
 import Form from "./components/Form.js";
 import Grid from "./components/Grid";
